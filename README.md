@@ -1,5 +1,5 @@
 ## w2ray-heroku
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/oliviiia/cuuking.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/oliviiia/cuoking.git)
 
 ### heroku上部署w2ray
 - [x] 支持wMess和wLESS两种协议
